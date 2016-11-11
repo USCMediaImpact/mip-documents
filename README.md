@@ -7,9 +7,11 @@ This github repository includes documents and publications for the Data Reposito
 - Developer Documentation
 - Google Big Query Queries
 - mysql database schema
+
 #Operating Productures
 - New Client Onboarding 
 - Weekly Operations Guide
+
 #Whitepapers
 - Data Repository Technical Overview (January 2016 v1) 
 - Data Repository Technical Overivew  (December 2016 v2)
