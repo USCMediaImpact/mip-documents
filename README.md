@@ -13,9 +13,10 @@ This github repository includes documents and publications for the Data Reposito
 - Weekly Operations Guide
 
 ## Whitepapers
-- Data Repository Technical Overview (January 2016 v1) 
-- Data Repository Technical Overivew  (December 2016 v2)
-- Data Repository & Dashboard Architecture Overview (December 2016)
+- Data Repository Overview - Dec 2016	
+- Data Repository Whitepaper v1.5 Dec 2016.pdf	
+- Google Analytics Custom Reports.pdf	
+- Technical Architecture.pdf
 
 ## License
 These documents are published under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
