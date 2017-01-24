@@ -14,9 +14,9 @@ This github repository includes documents and publications for the Data Reposito
 
 ## Whitepapers
 - Data Repository Overview - Dec 2016	
-- Data Repository Whitepaper v1.5 Dec 2016.pdf	
-- Google Analytics Custom Reports.pdf	
-- Technical Architecture.pdf
+- Data Repository Whitepaper v1.5 - Dec 2016
+- Google Analytics Custom Reports - Dec 2016
+- Technical Architecture - Dec 2016
 
 ## License
 These documents are published under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
