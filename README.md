@@ -6,7 +6,7 @@ This github repository includes documents and publications for the Data Reposito
 ## Dashboard Developer Docs
 - Developer Documentation
 - Google Big Query Queries
-- mysql database schema
+
 
 ## Operating Productures
 - New Client Onboarding 
